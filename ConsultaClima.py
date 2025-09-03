@@ -1,7 +1,7 @@
 import requests
 import pprint
 
-apikey = "your_key"
+apikey = "YourKey"
 link_api =  "http://api.weatherapi.com/v1/current.json"
 
 parametros = {
